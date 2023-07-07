@@ -1,0 +1,3 @@
+﻿D:\vs\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(7.6.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test.c
+  7.6.vcxproj -> C:\Users\Administrator\cproject\7.6\x64\Debug\7.7.exe
